@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kartik Ahir
+- 👀 I’m interested in Full-Stack-Developer
+- 🌱 I’m currently learning DSA
