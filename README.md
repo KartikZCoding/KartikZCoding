@@ -12,7 +12,7 @@ I'm a Computer Engineering student at Government Engineering College, Modasa, wi
 
 ## Tech Stack 💻
 
-- Languages: PHP, Java, Python, JavaScript, HTML, CSS, C, C++.
+- Languages: PHP, Java, Python, JavaScript, C, C++.
 - Frontend: HTML, CSS, JavaScript.
 - Backend: PHP, Java.
 - Databases: MySQl, PHPMyAdmin.
