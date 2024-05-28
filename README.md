@@ -21,6 +21,7 @@ I'm a Computer Engineering student at Government Engineering College, Modasa, wi
 ## GitHub Stats 📊
 
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KartikZCoding&show_icons=true)
+(https://github-readme-streak-stats.herokuapp.com/?user=KartikZCoding)
 
 ## Connect with Me 🤝
 
