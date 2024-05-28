@@ -6,7 +6,7 @@ I'm a Computer Engineering student at Government Engineering College, Modasa, wi
 
 - 🎓 Studying Computer Engineering at Government Engineering College, Modasa.
 - 💻 I have dream to learning full stack development.
-- 🌱 I’m currently learning Python, Backend, AI & ML(Basic).
+- 🌱 I’m currently learning Web Development(Frontend) AND side-work AI & ML.
 - 🤔 Exploring new technologies and developing software solutions.
 - 📫 How to reach me: [Kartik932839@gmail.com](mailto:Kartik932839@gmail.com)
 
