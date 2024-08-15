@@ -22,7 +22,7 @@ I'm a Computer Engineering student at Government Engineering College, Modasa, wi
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=KartikZCoding&show_icons=true" alt="Kartik's GitHub stats" style="width: 45%; height: 180px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikZCoding" alt="Kartik's GitHub streak" style="width: 45%; height: 200px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikZCoding" alt="Kartik's GitHub streak" style="width: 45%; height: 185px;" />
 </div>
 
 ## Connect with Me 🤝
