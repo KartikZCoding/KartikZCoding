@@ -6,9 +6,9 @@ I'm a Computer Engineering student at Government Engineering College, Modasa, wi
 
 - 🎓 Studying Computer Engineering at Government Engineering College, Modasa.
 - 💻 I have dream to learning full stack development.
-- 🌱 I’m currently learning Web Development(Frontend) AND side-work AI & ML.
+- 🌱 I’m currently Full Stack Developer.
 - 🤔 Exploring new technologies and developing software solutions.
-- 📫 How to reach me: [Kartik932839@gmail.com](mailto:Kartik932839@gmail.com)
+- 📫 How to reach me: [ahir.kartik.385@gmail.com](mailto:ahir.kartik.385@gmail.com)
 
 ## Tech Stack 💻
 
@@ -16,7 +16,7 @@ I'm a Computer Engineering student at Government Engineering College, Modasa, wi
 - Frontend: HTML, CSS, JavaScript.
 - Backend: PHP, Java.
 - Databases: MySQl, PHPMyAdmin.
-- Tools: VSCode, IntelliJ IDEA.
+- Tools: VSCode.
 
 ## GitHub Stats 📊
 
@@ -27,7 +27,6 @@ I'm a Computer Engineering student at Government Engineering College, Modasa, wi
 
 ## Connect with Me 🤝
 
-- LinkedIn: [Kartik Ahir](https://www.linkedin.com/in/kartik-ahir-69048726a/)
-- Twitter: [KartikZCoding](https://twitter.com/KartikZCoding)
+- LinkedIn: [Kartik Ahir](https://www.linkedin.com/in/kartik-ahir/)
 
 Feel free to explore my repositories and connect with me! 😊
