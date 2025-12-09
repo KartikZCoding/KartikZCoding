@@ -12,11 +12,13 @@ I'm a Computer Engineering student at Government Engineering College, Modasa, wi
 
 ## Tech Stack 💻
 
-- Languages: PHP, Java, Python, JavaScript, C, C++.
+- Languages: PHP, Java.
 - Frontend: HTML, CSS, JavaScript.
-- Backend: PHP, Java.
-- Databases: MySQl, PHPMyAdmin.
-- Tools: VSCode.
+- Framework: React js.
+- Backend: PHP, Basic(Node-js, Express-js).
+- Databases: MySQl, PHPMyAdmin, Basic(MongoDB).
+- Version-Control: Git, GitHub.
+- Tools: VSCode, Figma, PostMan.
 
 ## GitHub Stats 📊
 
