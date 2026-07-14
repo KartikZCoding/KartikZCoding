@@ -74,28 +74,28 @@
 
 #### 🏗️ Architecture & Patterns
 
-[![MVC-Architecture](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=MVC-Architecture-Simple-Project&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/MVC-Architecture-Simple-Project)
-[![MVVM-Architecture](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=MVVM-Architecture-Simple-Project&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/MVVM-Architecture-Simple-Project)
+[![MVC-Architecture](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=MVC-Architecture-Simple-Project&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/MVC-Architecture-Simple-Project)
+[![MVVM-Architecture](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=MVVM-Architecture-Simple-Project&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/MVVM-Architecture-Simple-Project)
 
 #### 🌐 ASP.NET Core
 
-[![ASP.NET-Core-Web-API](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=ASP.NET-Core-Web-API&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/ASP.NET-Core-Web-API)
-[![ASP.NET-Core-Web-API-Logging](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=ASP.NET-Core-Web-API-Logging&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/ASP.NET-Core-Web-API-Logging)
-[![ASP.NET-Core-Web-API-Middleware](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=ASP.NET-Core-Web-API-Middleware&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/ASP.NET-Core-Web-API-Middleware)
+[![ASP.NET-Core-Web-API](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=ASP.NET-Core-Web-API&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/ASP.NET-Core-Web-API)
+[![ASP.NET-Core-Web-API-Logging](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=ASP.NET-Core-Web-API-Logging&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/ASP.NET-Core-Web-API-Logging)
+[![ASP.NET-Core-Web-API-Middleware](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=ASP.NET-Core-Web-API-Middleware&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/ASP.NET-Core-Web-API-Middleware)
 
 #### 📘 C# Learning Journey
 
-[![csharp-to-dotnet-developer](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=csharp-to-dotnet-developer&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/csharp-to-dotnet-developer)
-[![csharp-LINQ-basics-to-advance](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=csharp-LINQ-basics-to-advance&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/csharp-LINQ-basics-to-advance)
-[![csharp-advance](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=csharp-advance&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/csharp-advance)
-[![csharp-intermediate](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=csharp-intermediate&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/csharp-intermediate)
-[![csharp-asynchronous-programming](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=csharp-asynchronous-programming&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/csharp-asynchronous-programming)
-[![csharp-observer-design-pattern](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=csharp-observer-design-pattern&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/csharp-observer-design-pattern)
+[![csharp-to-dotnet-developer](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=csharp-to-dotnet-developer&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/csharp-to-dotnet-developer)
+[![csharp-LINQ-basics-to-advance](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=csharp-LINQ-basics-to-advance&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/csharp-LINQ-basics-to-advance)
+[![csharp-advance](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=csharp-advance&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/csharp-advance)
+[![csharp-intermediate](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=csharp-intermediate&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/csharp-intermediate)
+[![csharp-asynchronous-programming](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=csharp-asynchronous-programming&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/csharp-asynchronous-programming)
+[![csharp-observer-design-pattern](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=csharp-observer-design-pattern&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/csharp-observer-design-pattern)
 
 #### 🗄️ Database & Other
 
-[![SQL-Server-Beginners-to-Advanced](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=SQL-Server-Beginners-to-Advanced&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/SQL-Server-Beginners-to-Advanced)
-[![javascript-basic-to-advance](https://github-readme-stats.vercel.app/api/pin/?username=KartikZCoding&repo=javascript-basic-to-advance&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/javascript-basic-to-advance)
+[![SQL-Server-Beginners-to-Advanced](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=SQL-Server-Beginners-to-Advanced&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/SQL-Server-Beginners-to-Advanced)
+[![javascript-basic-to-advance](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=javascript-basic-to-advance&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/javascript-basic-to-advance)
 
 ---
 
@@ -103,9 +103,9 @@
 
 <div align="center">
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikZCoding&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Kartik's GitHub Stats](https://github-stats-extended.vercel.app/api?username=KartikZCoding&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikZCoding&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=KartikZCoding&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
