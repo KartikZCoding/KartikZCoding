@@ -19,7 +19,7 @@
 - 🎓 B.E. Computer Engineering graduate **(2026)** — Government Engineering College, Modasa
 - 💼 Currently Software Enginner as a **Full Stack .NET Developer** at **MagnusMinds IT Solution**
 - 🔨 I build production-grade **REST APIs** and **full-stack apps** with clean, scalable architecture
-- 🌱 Currently leveling up in **Angular** and **System Design**
+- 🌱 Currently leveling up in **Angular**, **Cloud**, **DevOps** and **System Design**
 - 🏙️ Based in **Ahmedabad, Gujarat, India**
 
 ---
