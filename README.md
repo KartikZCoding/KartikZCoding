@@ -17,7 +17,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.E. Computer Engineering graduate **(2026)** — Government Engineering College, Modasa
-- 💼 Currently interning as a **Full Stack .NET Developer** at **Tridhya Tech Pvt. Ltd.**
+- 💼 Currently Software Enginner as a **Full Stack .NET Developer** at **MagnusMinds IT Solution**
 - 🔨 I build production-grade **REST APIs** and **full-stack apps** with clean, scalable architecture
 - 🌱 Currently leveling up in **Angular** and **System Design**
 - 🏙️ Based in **Ahmedabad, Gujarat, India**
