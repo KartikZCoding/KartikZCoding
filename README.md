@@ -96,7 +96,7 @@
 
 [![SQL-Server-Beginners-to-Advanced](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=SQL-Server-Beginners-to-Advanced&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/SQL-Server-Beginners-to-Advanced)
 [![javascript-basic-to-advance](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=javascript-basic-to-advance&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/javascript-basic-to-advance)
-
+[![antigravity-token-optimization-guide](https://github-stats-extended.vercel.app/api/pin/?username=KartikZCoding&repo=antigravity-token-optimization-guide&theme=tokyonight&hide_border=true)](https://github.com/KartikZCoding/antigravity-token-optimization-guide)
 ---
 
 ### 📊 GitHub Stats
